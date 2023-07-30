@@ -1,1 +1,7 @@
 absindia
+ABS HR
+ABS General
+ABS Service
+ABS Sales
+ABS Notifications
+ABS Workflow
