@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include absindia *.css
+recursive-include absindia *.csv
+recursive-include absindia *.html
+recursive-include absindia *.ico
+recursive-include absindia *.js
+recursive-include absindia *.json
+recursive-include absindia *.md
+recursive-include absindia *.png
+recursive-include absindia *.py
+recursive-include absindia *.svg
+recursive-include absindia *.txt
+recursive-exclude absindia *.pyc
